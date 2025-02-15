@@ -35,11 +35,6 @@ const routes = [
     handler: deleteBookHandler,
   },
   {
-    method: "GET",
-    path: "/login",
-    handler: loginBookHandler,
-  },
-  {
     method: "POST",
     path: "/login",
     handler: loginBookHandler,
