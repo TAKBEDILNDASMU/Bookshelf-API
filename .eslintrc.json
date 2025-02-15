@@ -12,6 +12,9 @@
   "rules": {
     "linebreak-style": ["error", "windows"],
     "no-console": 0,
-    "max-len": ["error", { "code": 120, "ignoreUrls": true }]
+    "max-len": ["error", { "code": 120, "ignoreUrls": true }],
+    "quotes": "off",
+    "indent": "off",
+    "semi": "off"
   }
 }
