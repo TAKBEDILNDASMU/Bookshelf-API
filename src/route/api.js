@@ -43,6 +43,11 @@ const routes = [
     path: "/login",
     handler: loginBookHandler,
   },
+  {
+    method: "POST",
+    path: "/login",
+    handler: loginBookHandler,
+  },
 ]
 
 module.exports = routes
