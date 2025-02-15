@@ -1,3 +1,3 @@
-const books = ["Harry Potter", "Laskar Pelangi", "Atomic Habits"];
+const books = []
 
-module.exports = books;
+module.exports = books
