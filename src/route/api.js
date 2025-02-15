@@ -32,11 +32,6 @@ const routes = [
     path: "/books/{bookId}",
     handler: deleteBookHandler,
   },
-  {
-    method: "DELETE",
-    path: "/books/{bookId}",
-    handler: deleteBookHandler,
-  },
 ]
 
 module.exports = routes
